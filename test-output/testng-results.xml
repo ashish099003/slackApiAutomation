@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4658" started-at="2019-08-24T09:20:40Z" finished-at="2019-08-24T09:20:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4658" started-at="2019-08-24T09:20:40Z" finished-at="2019-08-24T09:20:45Z">
+      <class name="channeltests.ListAllChannelAndVaildateRenameTest">
+        <test-method status="PASS" signature="ListAllChannel()[pri:0, instance:channeltests.ListAllChannelAndVaildateRenameTest@2d928643]" name="ListAllChannel" duration-ms="4607" started-at="2019-08-24T14:50:40Z" finished-at="2019-08-24T14:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListAllChannel -->
+      </class> <!-- channeltests.ListAllChannelAndVaildateRenameTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
